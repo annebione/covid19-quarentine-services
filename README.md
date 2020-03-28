@@ -17,7 +17,7 @@ Essa breve página tem como objetivo listar serviços de utilidade para a popula
 7. Observações
 
 
-Por exemplo
+Por exemplo:
 
 ```
 Anne ótica ltda
